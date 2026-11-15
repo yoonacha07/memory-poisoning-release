@@ -1,0 +1,65 @@
+python : 
+At line:1 char:1
++ python scripts/run_answers.py --split dev --settings D0 D5_50 
+--corpo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteExcept 
+   ion
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 6824.10it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. 
+Please set a HF_TOKEN to enable higher rate limits and faster 
+downloads.
+1/50 078150f1
+2/50 1568498a
+3/50 184da446
+4/50 1c549ce4
+5/50 2311e44b_abs
+6/50 26bdc477
+7/50 3d86fd0a
+8/50 4100d0a0
+9/50 488d3006
+10/50 4baee567
+11/50 4bc144e2
+12/50 5831f84d
+13/50 58bf7951
+14/50 5a7937c8
+15/50 5c40ec5b
+16/50 60036106
+17/50 67e0d0f2
+18/50 6b168ec8
+19/50 73d42213
+20/50 75499fd8
+21/50 8a2466db
+22/50 95bcc1c8
+23/50 982b5123_abs
+24/50 9d25d4e0
+25/50 a2f3aa27
+26/50 a89d7624
+27/50 a9f6b44c
+28/50 aae3761f
+29/50 affe2881
+30/50 ba61f0b9
+31/50 cc06de0d
+32/50 ccb36322
+33/50 d01c6aa8
+34/50 eac54adc
+35/50 eac54add
+36/50 edced276
+37/50 edced276_abs
+38/50 ef66a6e5
+39/50 fca70973
+40/50 gpt4_15e38248
+41/50 gpt4_1e4a8aec
+42/50 gpt4_2c50253f
+43/50 gpt4_2d58bcd6
+44/50 gpt4_59149c77
+45/50 gpt4_68e94287
+46/50 gpt4_74aed68e
+47/50 gpt4_7de946e7
+48/50 gpt4_e072b769
+49/50 gpt4_e414231f
+50/50 gpt4_ec93e27f
+done: C:\Users\anon\memory-poisoning\runs\answers_dev_n3_run1.jsonl

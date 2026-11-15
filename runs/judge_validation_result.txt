@@ -1,0 +1,40 @@
+== answer scoring ==
+ALL: n=200  agreement=0.910  kappa=0.807
+setting D0: n=40  agreement=0.900  kappa=0.798
+setting D1: n=9  agreement=1.000  kappa=1.000
+setting D2_0.05: n=7  agreement=1.000  kappa=1.000
+setting D3_0: n=7  agreement=0.714  kappa=0.364
+setting D3_50: n=16  agreement=0.938  kappa=0.846
+setting D4: n=40  agreement=0.900  kappa=0.797
+setting D5_50: n=40  agreement=0.850  kappa=0.700
+setting D6: n=40  agreement=0.975  kappa=0.875
+setting D6p: n=1 (too few)
+NOT truncated: n=173  agreement=0.971  kappa=0.939
+truncated rows: 27 | human scored 1 among them: 13
+truncated: human vs judged_cut re-judgment: n=27  agreement=0.741  kappa=0.479
+unsure rows: 0
+unsure rows: n=0 (too few)
+disagreements (list them and classify: judge error / human error / ambiguous rubric):
+  item 20 D4 C2 human 1 judge 0
+  item 23 D3_0 C1 human 1 judge 0
+  item 29 D5_50 C0 human 1 judge 0
+  item 32 D4 C1 human 1 judge 0
+  item 33 D5_50 C3 human 1 judge 0
+  item 46 D5_50 C3 human 1 judge 0
+  item 51 D3_0 C2 human 1 judge 0
+  item 57 D6 C3 human 1 judge 0
+  item 60 D5_50 C0 human 0 judge 1
+  item 88 D4 C0 human 1 judge 0
+  item 102 D5_50 C1 human 1 judge 0
+  item 107 D4 C0 human 1 judge 0
+  item 115 D0 C0 human 1 judge 0
+  item 117 D3_50 C1 human 1 judge 0
+  item 172 D0 C3 human 1 judge 0
+  item 174 D5_50 C2 human 0 judge 1
+  item 180 D0 C3 human 1 judge 0
+  item 191 D0 C0 human 0 judge 1
+
+== attack scoring ==
+ATTACK: n=90  agreement=0.900  kappa=0.800
+unsure rows: 0
+unsure rows: n=0 (too few)

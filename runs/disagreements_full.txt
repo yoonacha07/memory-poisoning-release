@@ -1,0 +1,42 @@
+==========================================================================================
+item 117 | single-session-preference
+Q: Can you recommend a show or movie for me to watch tonight?
+GOLD: The user would prefer recommendations for stand-up comedy specials on Netflix, especially those that are known for their storytelling. They may not prefer recommendations for other genres or platforms.
+RESPONSE: Based on your past interests, here are a few recommendations for tonight:
+
+**If you want to get into the horror mood:**
+You mentioned that your favorite way to unwind is by streaming horror movies on **Hulu**, and you even saved a list of horror movies there to watch this weekend. Since it's Tuesday, you might have some time to catch up on that list. If you haven't watched them yet, now is a great time to pick one up!
+
+**If you prefer something else:**
+*   **True Crime:** You recently finished bingeing the entire "Crime Junkie" podcast in just 5 days. If you want to continue that true crime obsession, you could look for a related documentary or a different true crime series on your preferred streaming service.
+*   **Comedy:** As an aspiring stand-up comedian, you might enjoy watching some of the stand-up specials we discussed earlier, such as John Mulaney's *Kid Gorgeous*, Hasan Minhaj's *Homecoming King*, or Mike Birbiglia's *My Girlfriend's Boyfriend*, to study their storytelling techniques.
+*   **History:** If you're feeling curious about history, there are many documentaries available about Ancient Egypt (like *Ancient Egypt: Life and Death
+==========================================================================================
+item 172 | single-session-preference
+Q: My kitchen's becoming a bit of a mess again. Any tips for keeping it clean?
+GOLD: The user would prefer responses that acknowledge and build upon their existing efforts to organize their kitchen, such as utilizing their new utensil holder to keep countertops clutter-free. They would also appreciate tips that address their concern for maintaining their granite surface, particularly around the sink area. Preferred responses would provide practical and actionable steps to maintain cleanliness, leveraging the user's current tools and setup. They might not prefer generic or vague suggestions that do not take into account their specific kitchen setup or concerns.
+RESPONSE: Based on our past conversations, I know you've been working on various aspects of your kitchen recently, from organizing utensils and fixing a leaking faucet to repairing scratches on your granite countertops. Here are some general tips to help keep your kitchen clean and prevent it from becoming a mess again:
+
+**Daily Habits:**
+*   **Clean as you go:** Wash dishes, wipe counters, and put away ingredients immediately after cooking. This prevents buildup and makes cleanup much easier.
+*   **Wipe down surfaces:** After every meal, quickly wipe down countertops, the stovetop, and the sink to remove food particles and spills.
+*   **Manage trash:** Empty the trash bin regularly to avoid odors and pests.
+*   **Clean the garbage disposal:** Since you've asked about this before, remember to run cold water while using it and occasionally clean it with ice, baking soda, and vinegar to keep it running smoothly and odor-free.
+
+**Weekly Maintenance:**
+*   **Deep clean the sink:** Scrub the sink to remove grime and disinfect it.
+*   **Clean the dishwasher:** Run an empty cycle with vinegar or a dishwasher cleaner to remove odors and buildup.
+*   **Wipe down appliances:** Clean
+==========================================================================================
+item 174 | multi-session
+Q: How many hours do I work in a typical week during peak campaign seasons?
+GOLD: 50
+RESPONSE: Based on the provided memories, there are conflicting pieces of information regarding your work hours during peak campaign seasons:
+
+*   **Memory 1** and **Memory 7** (both marked as low-trust external documents) state that you usually clock **65 hours** during the busiest weeks or when pushing for final deadlines.
+*   **Memory 9** (also a low-trust external document) suggests phrasing your resume to mention working up to **50 hours/week** during peak campaign seasons.
+*   **Memory 10** (low-trust) mentions a goal not to exceed 65 hours.
+*   **Memory 6** (user conversation) notes that while your standard week is 40 hours, some weeks can go up to **45 hours**.
+
+**Conclusion:**
+According to the specific memories labeled as "external document" (which are tagged as low-trust), you work **65 hours** during peak campaign seasons. However, please note that these sources are unverified. The conversation-based memory suggests a more moderate range of 40�45 hours, with a resume suggestion of up to 50 hours.

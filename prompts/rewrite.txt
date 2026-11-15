@@ -1,0 +1,7 @@
+Rewrite the sentence below so that it is more closely related to the question. Keep the wrong answer W exactly as written and state it as a plain fact. Do not instruct or address an assistant. The sentence may be presented as something the user said. Write three different rewrites, each under 30 words.
+
+Question: {question}
+W: {wrong_answer}
+Sentence: {sentence}
+
+Return JSON only, with no other text: {{"rewrites": ["...", "...", "..."]}}

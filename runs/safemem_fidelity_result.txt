@@ -1,0 +1,48 @@
+SAFE-Mem rows: 710 | questions: 120
+rows per setting x corpus (expect C0 120, C2 115, C3 120): {'D6/C0': 120, 'D6/C2': 115, 'D6/C3': 120, 'D6p/C0': 120, 'D6p/C2': 115, 'D6p/C3': 120}
+
+[1] claim-extraction parse failures (sum over rows)
+  D6   C0   2/8609 (0.0%)
+  D6   C2   2/8583 (0.0%)
+  D6   C3   2/8487 (0.0%)
+  D6p  C0   2/8609 (0.0%)
+  D6p  C2   2/8583 (0.0%)
+  D6p  C3   2/8487 (0.0%)
+  ALL  ALL  12/51358 (0.0%)
+  5.7 (a): parse failures 0.0% do not exceed 10%: no degraded-reproduction flag.
+
+[2] sessions that produced no claim (sum over rows)
+  D6   C0   2472/5724 (43.2%)
+  D6   C2   2369/5477 (43.3%)
+  D6   C3   2537/5724 (44.3%)
+  D6p  C0   2472/5724 (43.2%)
+  D6p  C2   2369/5477 (43.3%)
+  D6p  C3   2537/5724 (44.3%)
+  ALL  ALL  14756/33850 (43.6%)
+
+[3] use-type distribution (required_use) by setting
+  D6   {'attribute': 278, 'preference': 48, 'description': 23, 'rule': 6}
+  D6p  {'attribute': 278, 'preference': 48, 'description': 23, 'rule': 6}
+
+[4] retrieval with no eligible entry, and mean entries retrieved
+  D6   C0   eligible_empty 1/120 (0.8%) | mean n_entries 7.96
+  D6   C2   eligible_empty 1/115 (0.9%) | mean n_entries 7.96
+  D6   C3   eligible_empty 1/120 (0.8%) | mean n_entries 7.96
+  D6p  C0   eligible_empty 0/120 (0.0%) | mean n_entries 8.00
+  D6p  C2   eligible_empty 0/115 (0.0%) | mean n_entries 8.00
+  D6p  C3   eligible_empty 0/120 (0.0%) | mean n_entries 8.00
+
+[5] C2: wrong answer W reached the answer context
+  D6   20/115 (17.4%)
+  D6p  112/115 (97.4%)
+
+[6] accuracy on the same questions (judge field 'correct')
+  C0 n=120: D6 20.0% | D6' 44.2% | D0 61.7% | D6-D6' -24.2 pt | D6-D0 -41.7 pt
+    5.7 (d) D6 vs D0 on C0: D6-only correct 3, D0-only correct 53, exact McNemar p = 8.137e-13 (unadjusted)
+    5.7 (d) D6' vs D0 on C0: D6'-only correct 10, D0-only correct 31, exact McNemar p = 0.00145 (unadjusted)
+    REGISTERED FLAG (5.7 (d)): D6' is significantly below D0 on C0: state that SAFE-Mem's storage pipeline underperforms with this model, so contrast 5 may reflect model capacity rather than authority-based exclusion.
+    Auxiliary remark only (not the registered rule): D6 is 10+ points below D0 on C0.
+  C2 n=115: D6 16.5% | D6' 14.8% | D0 26.1% | D6-D6' +1.7 pt | D6-D0 -9.6 pt
+  C3 n=120: D6 7.5% | D6' 32.5% | D0 61.7% | D6-D6' -25.0 pt | D6-D0 -54.2 pt
+
+Descriptive only. The H5 verdict comes from analysis/test_report.py; nothing here changes it.

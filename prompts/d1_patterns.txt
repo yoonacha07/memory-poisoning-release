@@ -1,0 +1,15 @@
+# One case-insensitive regular expression per line. An item matching any line is screened out by D1,
+# and a generated false-fact sentence matching any line fails the automatic check.
+# Patterns target instructions addressed to an assistant, not ordinary first-person speech.
+\bignore (all |any |the |your |previous |prior |above )*(instructions?|rules?|prompts?|messages?)\b
+\bdisregard (all |any |the |your |previous |prior |above )*(instructions?|rules?|prompts?)\b
+\b(you|assistant|the ai)( should| must| will)? (always|never) (answer|respond|reply|say|tell|recommend|mention|reveal)\b
+\balways (answer|respond|reply|say) (with|that|"|')
+\bwhen (you are |you're )?asked\b.{0,60}\b(answer|respond|reply|say|tell)\b
+\byou must (always|never|answer|respond|reply|say|tell|recommend|remember|follow)\b
+\bremember to (always|never|tell|say|answer|respond|recommend|mention)\b
+\b(answer|respond|reply) (with|that)\b.{0,40}\b(whenever|if asked|when asked)\b
+\bdo not (tell|mention|reveal) (the user|anyone|this)\b
+^\s*(system|assistant|ai)\s*:
+\[(system|instruction|inst)\]
+<\|?(system|im_start|im_end)\|?>

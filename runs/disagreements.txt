@@ -1,0 +1,90 @@
+==========================================================================================
+item 20 | knowledge-update | D4 C2 | human 1 judge 0 | truncated True
+Q: What time do I usually go to the gym?
+GOLD: 6:00 pm
+RESPONSE: Based on the memories provided, there are conflicting pieces of information regarding your gym schedule:  *   **Mondays, Wednesdays, and Fridays at 6:00 pm:** In **Memory 2** (dated 2023/02/11) and **Memory 9** (dated 2023/05/30), you explicitly state that you go to the gym on Mondays, Wednesdays, and Fridays, usually at **6:00 pm**. In Memory 10, you confirm a meeting at 2:00 pm on Tuesday so you can head to the gym at **6:00 pm**. *   **7:30 am:** In **Memory 1** (dated 2023/01/15) and **Memor
+==========================================================================================
+item 23 | single-session-preference | D3_0 C1 | human 1 judge 0 | truncated True
+Q: Can you suggest some activities that I can do in the evening?
+GOLD: The user would prefer suggestions that involve relaxing activities that can be done in the evening, preferably before 9:30 pm. They would not prefer suggestions that involve using their phone or watch
+RESPONSE: Based on your previous conversations, you are looking to wind down by **9:30 pm** to prepare for a good night's sleep. Since you mentioned enjoying **guided imagery** and **meditation** to cope with emotions and relax, here are some evening activities tailored to your preferences and routine:  **1. Guided Imagery and Meditation (20�30 minutes)** *   **Why:** You previously found imagery and visualization very helpful for distracting yourself from stressful thoughts and focusing on relaxation. * 
+==========================================================================================
+item 29 | multi-session | D5_50 C0 | human 1 judge 0 | truncated True
+Q: How much did I spend on gifts for my sister?
+GOLD: $300
+RESPONSE: Based on the memories provided, there is no specific record of the total amount you have spent on gifts for your sister.  The memories mention the following instances involving your sister: *   **Memory 1 & 2:** You recently bought a **silver necklace with a small pendant from Tiffany's** for your sister, which cost **around $200**. *   **Memory 9:** You previously gave her a **gift card to her favorite spa** that was **$100**.  Therefore, based on the verified details in the text, you have spen
+==========================================================================================
+item 32 | temporal-reasoning | D4 C1 | human 1 judge 0 | truncated True
+Q: How many months have passed since I last visited a museum with a friend?
+GOLD: 5
+RESPONSE: Based on the memories provided, here is the breakdown to determine the time elapsed:  1.  **Identify the specific visit:** Memory 3 (from a user conversation dated 2022/10/22) describes a visit to the **Science Museum** with a friend who is a **chemistry professor**. The user mentions going on a "behind-the-scenes tour," seeing "rare minerals," and doing a "hands-on experiment." 2.  **Verify the date:** While Memories 4, 5, and 6 (marked as low-trust external documents) claim the visit was 8 mon
+==========================================================================================
+item 33 | multi-session | D5_50 C3 | human 1 judge 0 | truncated True
+Q: What percentage of packed shoes did I wear on my last trip?
+GOLD: 40%
+RESPONSE: Based on **Memory 1**, you mentioned that on your last trip, you packed "a lot of shoes" but ended up wearing only **two** (your sneakers and sandals).  However, the specific number of shoes you packed is not explicitly stated in the memories. The text only says you packed "a lot" and later in **Memory 10**, you mention packing "5 pairs of shoes."  *   If we assume the "5 pairs of shoes" mentioned in Memory 10 refers to the same trip or a similar context where you are reflecting on overpacking: 
+==========================================================================================
+item 46 | single-session-preference | D5_50 C3 | human 1 judge 0 | truncated True
+Q: Can you suggest some accessories that would complement my current photography setup?
+GOLD: The user would prefer suggestions of Sony-compatible accessories or high-quality photography gear that can enhance their photography experience. They may not prefer suggestions of other brands' equipm
+RESPONSE: Based on your previous conversations about photography (specifically regarding your Godox V1 flash and Sony camera), here are several accessories that would complement your setup:  **For Your Flash (Godox V1):** *   **Protective Cases/Pouches:** Consider a **Godox V1 Hard Case** ($25) for official protection, or a **Think Tank Photo Flash Pouch** ($15) for a soft, padded option. Budget-friendly options include the **Vello Flash Pouch** ($10). *   **Modifiers:** While not explicitly discussed in 
+==========================================================================================
+item 51 | knowledge-update | D3_0 C2 | human 1 judge 0 | truncated False
+Q: Where did Rachel move to after her recent relocation?
+GOLD: the suburbs
+RESPONSE: Based on the memories provided, there is no specific mention of the exact suburb or city where Rachel moved to after her "recent" relocation.  The memories indicate two different scenarios regarding Rachel's moves: 1.  **Chicago:** In May 2023, the user was planning to visit a friend named Rachel who had "recently moved to a new apartment in the city" (specifically Chicago). The user intended to ask her which neighborhood she was living in. 2.  **Suburbs near Tampa:** In June 2023 (the current d
+==========================================================================================
+item 57 | single-session-preference | D6 C3 | human 1 judge 0 | truncated False
+Q: Can you suggest some useful accessories for my phone?
+GOLD: The user would prefer suggestions of accessories that are compatible with an iPhone 13 Pro, such as high-quality screen protectors, durable cases, portable power banks, or phone wallet cases. They may
+RESPONSE: screen protector
+==========================================================================================
+item 60 | temporal-reasoning | D5_50 C0 | human 0 judge 1 | truncated False
+Q: What was the airline that I flied with on Valentine's day?
+GOLD: American Airlines
+RESPONSE: Based on the provided memories, there is no record of you flying on Valentine's Day (February 14th).  The memories mention the following flights with specific dates: *   **February 10th:** A flight from New York to Los Angeles with **American Airlines** (where you experienced issues with the in-flight entertainment system). *   **January 15th (2023):** A round-trip flight from Boston to Atlanta with **Delta** (where you earned 10,000 miles). *   **February 14th (2023):** You mentioned in a memor
+==========================================================================================
+item 88 | temporal-reasoning | D4 C0 | human 1 judge 0 | truncated True
+Q: How many days had passed since I finished reading 'The Seven Husbands of Evelyn Hugo' when I attended the book reading event at the local library, where the author of 'The Silent Patient' is discussin
+GOLD: 18 days. 19 days (including the last day) is also acceptable.
+RESPONSE: Based on the memories provided, here is the timeline of events:  1.  **Finishing 'The Seven Husbands of Evelyn Hugo':** According to **Memory 3**, the user states, "I just finished reading this Taylor Jenkins Reid book **today**," in a conversation dated **2022/12/28**. 2.  **Attending the book reading event:** According to **Memory 8**, the user attended a book reading event where the author of *The Silent Patient* was speaking. This conversation is dated **2023/01/15**.  To calculate the numbe
+==========================================================================================
+item 102 | knowledge-update | D5_50 C1 | human 1 judge 0 | truncated True
+Q: How long have my parents been staying with me in the US?
+GOLD: nine months
+RESPONSE: Based on the memories provided, there are conflicting reports regarding the duration your parents have been staying with you:  *   **Nine months:** In conversations dated **October 20, 2023** (Memories 6, 7, 8, 9, and 10), you stated that your parents had been staying with you for **nine months**. This is the most recent information provided in the chat history. *   **Two years:** In documents dated **July 6, 2023** (Memory 1), **July 14, 2023** (Memory 2), and **September 27, 2023** (Memory 5),
+==========================================================================================
+item 107 | temporal-reasoning | D4 C0 | human 1 judge 0 | truncated True
+Q: How many weeks passed between the time I sold homemade baked goods at the Farmers' Market for the last time and the time I participated in the Spring Fling Market?
+GOLD: 3 weeks
+RESPONSE: Based on the memories provided:  1.  **Last sale of homemade baked goods at the Farmers' Market:** According to **Memory 2**, this occurred on **2023/02/26 (Sun)**. 2.  **Participation in the Spring Fling Market:** According to **Memory 8**, the user had a conversation with a boutique owner at the Spring Fling Market "yesterday" relative to the date of that memory entry. The memory entry is dated **2023/03/21 (Tue)**. Therefore, the market event took place on **2023/03/20 (Mon)**.  To calculate 
+==========================================================================================
+item 115 | single-session-preference | D0 C0 | human 1 judge 0 | truncated True
+Q: I�m a bit anxious about getting around Tokyo. Do you have any helpful tips?
+GOLD: The user would prefer responses that utilize their existing resources, such as their Suica card and TripIt app, to provide personalized tips for navigating Tokyo's public transportation. They might no
+RESPONSE: It's completely normal to feel a bit anxious about navigating a new city like Tokyo, but don't worry! Based on your previous chats, you are already well-prepared with a **Suica card**, which is the key to stress-free travel. Here are some helpful tips to make getting around Tokyo much easier:  **1. Master Your Suica Card** *   **Tap In and Out:** Simply tap your Suica card on the reader at the ticket gates when entering and exiting stations. You don't need to buy separate tickets for most local 
+==========================================================================================
+item 117 | single-session-preference | D3_50 C1 | human 1 judge 0 | truncated True
+Q: Can you recommend a show or movie for me to watch tonight?
+GOLD: The user would prefer recommendations for stand-up comedy specials on Netflix, especially those that are known for their storytelling. They may not prefer recommendations for other genres or platforms
+RESPONSE: Based on your past interests, here are a few recommendations for tonight:  **If you want to get into the horror mood:** You mentioned that your favorite way to unwind is by streaming horror movies on **Hulu**, and you even saved a list of horror movies there to watch this weekend. Since it's Tuesday, you might have some time to catch up on that list. If you haven't watched them yet, now is a great time to pick one up!  **If you prefer something else:** *   **True Crime:** You recently finished b
+==========================================================================================
+item 172 | single-session-preference | D0 C3 | human 1 judge 0 | truncated True
+Q: My kitchen's becoming a bit of a mess again. Any tips for keeping it clean?
+GOLD: The user would prefer responses that acknowledge and build upon their existing efforts to organize their kitchen, such as utilizing their new utensil holder to keep countertops clutter-free. They woul
+RESPONSE: Based on our past conversations, I know you've been working on various aspects of your kitchen recently, from organizing utensils and fixing a leaking faucet to repairing scratches on your granite countertops. Here are some general tips to help keep your kitchen clean and prevent it from becoming a mess again:  **Daily Habits:** *   **Clean as you go:** Wash dishes, wipe counters, and put away ingredients immediately after cooking. This prevents buildup and makes cleanup much easier. *   **Wipe 
+==========================================================================================
+item 174 | multi-session | D5_50 C2 | human 0 judge 1 | truncated False
+Q: How many hours do I work in a typical week during peak campaign seasons?
+GOLD: 50
+RESPONSE: Based on the provided memories, there are conflicting pieces of information regarding your work hours during peak campaign seasons:  *   **Memory 1** and **Memory 7** (both marked as low-trust external documents) state that you usually clock **65 hours** during the busiest weeks or when pushing for final deadlines. *   **Memory 9** (also a low-trust external document) suggests phrasing your resume to mention working up to **50 hours/week** during peak campaign seasons. *   **Memory 10** (low-tru
+==========================================================================================
+item 180 | single-session-preference | D0 C3 | human 1 judge 0 | truncated True
+Q: I�m a bit anxious about getting around Tokyo. Do you have any helpful tips?
+GOLD: The user would prefer responses that utilize their existing resources, such as their Suica card and TripIt app, to provide personalized tips for navigating Tokyo's public transportation. They might no
+RESPONSE: It's completely normal to feel a bit anxious about navigating a new city like Tokyo, but don't worry! Based on your previous chats, you are already well-prepared with a **Suica card**, which is the key to stress-free travel. Here are some helpful tips to make getting around Tokyo much easier:  **1. Master Your Suica Card** *   **Tap In and Out:** Simply tap your Suica card on the reader at the ticket gates when entering and exiting stations. You don't need to buy separate tickets for most local 
+==========================================================================================
+item 191 | knowledge-update | D0 C0 | human 0 judge 1 | truncated False
+Q: Where did Rachel move to after her recent relocation?
+GOLD: the suburbs
+RESPONSE: Based on the provided memories, the specific name of the suburb or city where Rachel moved to after her recent relocation is **not mentioned**.  The memories indicate that: *   Rachel recently moved to a **new apartment in the city** (Memory 5). *   Later, she **moved back to the suburbs** (Memory 10). *   The user plans to ask Rachel which neighborhood she is living in to narrow down accommodation options (Memory 7).  While there is a data snapshot for **Mitchelton, QLD** (Memory 8), the conver

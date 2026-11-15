@@ -1,0 +1,353 @@
+python : 
+At line:1 char:1
++ python scripts/run_answers.py --split dev --settings dev 2>&1 | 
+Tee-O ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteExcept 
+   ion
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 3165.51it/s]
+1/150 031748ae
+2/150 078150f1
+3/150 0862e8bf_abs
+4/150 0977f2af
+5/150 099778bb
+6/150 09d032c9
+7/150 0bb5a684
+8/150 0e4e4c46
+9/150 0e5e2d1a
+10/150 0edc2aef
+11/150 10e09553
+12/150 118b2229
+13/150 1568498a
+14/150 157a136e
+15/150 184da446
+16/150 19b5f2b3
+17/150 1a8a66a6
+18/150 1c549ce4
+19/150 1faac195
+20/150 22d2cb42
+21/150 2311e44b_abs
+22/150 2698e78f
+23/150 2698e78f_abs
+24/150 26bdc477
+25/150 2788b940
+26/150 29f2956b_abs
+27/150 2a1811e2
+28/150 2ce6a0f2
+29/150 2e6d26dc
+30/150 35a27287
+31/150 36580ce8
+32/150 370a8ff4
+33/150 3a704032
+34/150 3d86fd0a
+35/150 4100d0a0
+36/150 41698283
+37/150 42ec0761
+python : 
+At line:1 char:1
++ python scripts/run_answers.py --split dev --settings dev 2>&1 | Tee-O ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 5541.69it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to 
+enable higher rate limits and faster downloads.
+1/150 031748ae
+2/150 078150f1
+3/150 0862e8bf_abs
+4/150 0977f2af
+5/150 099778bb
+6/150 09d032c9
+7/150 0bb5a684
+8/150 0e4e4c46
+9/150 0e5e2d1a
+10/150 0edc2aef
+11/150 10e09553
+12/150 118b2229
+13/150 1568498a
+14/150 157a136e
+15/150 184da446
+16/150 19b5f2b3
+17/150 1a8a66a6
+18/150 1c549ce4
+19/150 1faac195
+20/150 22d2cb42
+21/150 2311e44b_abs
+22/150 2698e78f
+23/150 2698e78f_abs
+24/150 26bdc477
+25/150 2788b940
+26/150 29f2956b_abs
+27/150 2a1811e2
+28/150 2ce6a0f2
+29/150 2e6d26dc
+30/150 35a27287
+31/150 36580ce8
+32/150 370a8ff4
+python : 
+At line:1 char:1
++ python scripts/run_answers.py --split dev --settings dev 2>&1 | Tee-O ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 3567.59it/s]
+1/150 031748ae
+2/150 078150f1
+3/150 0862e8bf_abs
+4/150 0977f2af
+5/150 099778bb
+6/150 09d032c9
+7/150 0bb5a684
+8/150 0e4e4c46
+9/150 0e5e2d1a
+10/150 0edc2aef
+11/150 10e09553
+12/150 118b2229
+13/150 1568498a
+14/150 157a136e
+15/150 184da446
+16/150 19b5f2b3
+17/150 1a8a66a6
+18/150 1c549ce4
+19/150 1faac195
+20/150 22d2cb42
+21/150 2311e44b_abs
+22/150 2698e78f
+23/150 2698e78f_abs
+24/150 26bdc477
+25/150 2788b940
+26/150 29f2956b_abs
+27/150 2a1811e2
+28/150 2ce6a0f2
+29/150 2e6d26dc
+30/150 35a27287
+31/150 36580ce8
+32/150 370a8ff4
+33/150 3a704032
+34/150 3d86fd0a
+35/150 4100d0a0
+36/150 41698283
+37/150 42ec0761
+python : 
+At line:1 char:1
++ python scripts/run_answers.py --split dev --settings dev 2>&1 | 
+Tee-O ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteExcept 
+   ion
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 3472.02it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. 
+Please set a HF_TOKEN to enable higher rate limits and faster 
+downloads.
+1/150 031748ae
+2/150 078150f1
+3/150 0862e8bf_abs
+4/150 0977f2af
+5/150 099778bb
+6/150 09d032c9
+7/150 0bb5a684
+8/150 0e4e4c46
+9/150 0e5e2d1a
+10/150 0edc2aef
+11/150 10e09553
+12/150 118b2229
+13/150 1568498a
+14/150 157a136e
+15/150 184da446
+16/150 19b5f2b3
+17/150 1a8a66a6
+18/150 1c549ce4
+19/150 1faac195
+20/150 22d2cb42
+21/150 2311e44b_abs
+22/150 2698e78f
+23/150 2698e78f_abs
+24/150 26bdc477
+25/150 2788b940
+26/150 29f2956b_abs
+27/150 2a1811e2
+28/150 2ce6a0f2
+29/150 2e6d26dc
+30/150 35a27287
+31/150 36580ce8
+32/150 370a8ff4
+33/150 3a704032
+34/150 3d86fd0a
+35/150 4100d0a0
+36/150 41698283
+37/150 42ec0761
+python : 
+At line:1 char:1
++ python scripts/run_answers.py --split dev --settings dev 2>&1 | 
+Tee-O ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteExcept 
+   ion
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 3964.44it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. 
+Please set a HF_TOKEN to enable higher rate limits and faster 
+downloads.
+1/150 031748ae
+2/150 078150f1
+3/150 0862e8bf_abs
+4/150 0977f2af
+5/150 099778bb
+6/150 09d032c9
+7/150 0bb5a684
+8/150 0e4e4c46
+9/150 0e5e2d1a
+10/150 0edc2aef
+11/150 10e09553
+12/150 118b2229
+13/150 1568498a
+14/150 157a136e
+15/150 184da446
+16/150 19b5f2b3
+17/150 1a8a66a6
+18/150 1c549ce4
+19/150 1faac195
+20/150 22d2cb42
+21/150 2311e44b_abs
+22/150 2698e78f
+23/150 2698e78f_abs
+24/150 26bdc477
+25/150 2788b940
+26/150 29f2956b_abs
+27/150 2a1811e2
+28/150 2ce6a0f2
+29/150 2e6d26dc
+30/150 35a27287
+31/150 36580ce8
+32/150 370a8ff4
+33/150 3a704032
+34/150 3d86fd0a
+35/150 4100d0a0
+36/150 41698283
+37/150 42ec0761
+38/150 45dc21b6
+39/150 46a3abf7
+40/150 488d3006
+41/150 4baee567
+42/150 4bc144e2
+43/150 54026fce
+44/150 577d4d32
+45/150 5831f84d
+46/150 58bf7951
+47/150 5a7937c8
+48/150 5c40ec5b
+49/150 60036106
+50/150 60bf93ed
+51/150 6222b6eb
+52/150 6613b389
+53/150 67e0d0f2
+54/150 6a27ffc2
+55/150 6aeb4375_abs
+56/150 6b168ec8
+57/150 6cb6f249
+58/150 6d550036
+59/150 7161e7e2
+60/150 73d42213
+61/150 75499fd8
+62/150 76d63226
+63/150 778164c6
+64/150 77eafa52
+65/150 80ec1f4f_abs
+66/150 87f22b4a
+67/150 89527b6b
+68/150 8a2466db
+69/150 8b9d4367
+70/150 91b15a6e
+71/150 92a0aa75
+72/150 95bcc1c8
+73/150 982b5123_abs
+74/150 993da5e2
+75/150 9d25d4e0
+76/150 9ee3ecd6
+77/150 a08a253f
+78/150 a2f3aa27
+79/150 a40e080f
+80/150 a89d7624
+81/150 a9f6b44c
+82/150 aae3761f
+83/150 ac031881
+84/150 affe2881
+85/150 b46e15ed
+86/150 b6025781
+87/150 ba61f0b9
+88/150 c19f7a0b
+89/150 c2ac3c61
+90/150 c7cf7dfd
+91/150 c8c3f81d
+92/150 c960da58
+93/150 cc06de0d
+94/150 ccb36322
+95/150 ceb54acb
+96/150 cf22b7bf
+97/150 d01c6aa8
+98/150 d6233ab6
+99/150 d7c942c3
+100/150 dccbc061
+101/150 dcfa8644
+102/150 e48988bc
+103/150 e493bb7c
+104/150 e61a7584
+105/150 e982271f
+106/150 eac54adc
+107/150 eac54add
+108/150 ec81a493
+109/150 ed4ddc30
+110/150 edced276
+111/150 edced276_abs
+112/150 ef66a6e5
+113/150 f523d9fe
+114/150 f8c5f88b
+115/150 fca70973
+116/150 fea54f57
+117/150 gpt4_15e38248
+118/150 gpt4_18c2b244
+119/150 gpt4_1d4ab0c9
+120/150 gpt4_1e4a8aec
+121/150 gpt4_213fd887
+122/150 gpt4_2c50253f
+123/150 gpt4_2d58bcd6
+124/150 gpt4_2f8be40d
+125/150 gpt4_483dd43c
+126/150 gpt4_4cd9eba1
+127/150 gpt4_4ef30696
+128/150 gpt4_4fc4f797
+129/150 gpt4_5438fa52
+130/150 gpt4_59149c77
+131/150 gpt4_5dcc0aab
+132/150 gpt4_68e94287
+133/150 gpt4_74aed68e
+134/150 gpt4_7bc6cf22
+135/150 gpt4_7de946e7
+136/150 gpt4_7fce9456
+137/150 gpt4_85da3956
+138/150 gpt4_88806d6e
+139/150 gpt4_8e165409
+140/150 gpt4_93f6379c
+141/150 gpt4_98f46fc6
+142/150 gpt4_af6db32f
+143/150 gpt4_b0863698
+144/150 gpt4_c27434e8_abs
+145/150 gpt4_d84a3211
+146/150 gpt4_e072b769
+147/150 gpt4_e414231f
+148/150 gpt4_ec93e27f
+149/150 gpt4_f2262a51
+150/150 gpt4_fe651585
+done: C:\Users\anon\memory-poisoning\runs\answers_dev_n3_run0.jsonl
